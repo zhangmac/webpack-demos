@@ -8,7 +8,7 @@
   var btn1 = document.createElement('button')
 
   element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-  btn.innerHTML = 'Click me and check the console!'
+  btn.innerHTML = 'Click me and check the console ni kanbukandao wo !'
   btn1.innerHTML = 'Click me again and check the console!'
   btn.onclick = printMe
   btn1.onclick = testMe
